@@ -6,7 +6,6 @@ The goal of this exercise is to create two eyes that follow the direction of the
 One improvement that could be made is to 'cross the eyes' when the mouse is between the eyes. Another improvement would be to add a pupil and iris to each eye, and dilate and constrict the pupils based on the distance between the eyes and the mouse.
 
 ## License Information
-
 MIT License
 
 Copyright (c) 2022 Naomi Mathew
